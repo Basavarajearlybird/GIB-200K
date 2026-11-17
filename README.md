@@ -465,7 +465,7 @@ If you use GIB-200K, please cite the technical report (metadata also in [`CITATI
 ```bibtex
 @misc{rm2026illusion,
   title         = {The Illusion of Grounding: Do Vision--Language Models Weigh Retrieved Text and Images Like an Ideal Observer?},
-  author        = {R M, Basavaraj and Chandel, Harshal and Kumar, Aryan Bharat},
+  author        = {R M, Basavaraj and Chandel, Harshal},
   year          = {2026},
   howpublished  = {Technical report},
   url           = {https://github.com/Basavarajearlybird/GIB-200K}
