@@ -13,8 +13,8 @@
 </p>
 
 <p>
-  <!-- After posting: replace the arXiv / Zenodo / Hugging Face badge targets with the real links -->
-  <img src="https://img.shields.io/badge/arXiv-paper-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"/>
+ 
+  <a href="https://arxiv.org/abs/2611.23127"><img src="https://img.shields.io/badge/arXiv-2611.23127-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv 2611.23127"/></a>
   <img src="https://img.shields.io/badge/Audit-72%2F72%20claims%20reproduce-16a34a?style=flat-square" alt="Audit: 72/72 claims reproduce"/>
   <img src="https://img.shields.io/badge/Tests-passing-16a34a?style=flat-square" alt="Tests passing"/>
   <img src="https://img.shields.io/badge/Models%20evaluated-4%20open%20VLMs-2563eb?style=flat-square" alt="4 open VLMs"/>
@@ -460,15 +460,15 @@ GIB-200K/
 
 ## 📜 Citation
 
-If you use GIB-200K, please cite the technical report (metadata also in [`CITATION.cff`](CITATION.cff)). The arXiv identifier will be added once it is assigned.
+If you use GIB-200K, please cite the technical report (metadata also in [`CITATION.cff`](CITATION.cff)). The arXiv identifier arXiv: [2611.23127](https://arxiv.org/abs/2611.23127)
 
 ```bibtex
-@misc{rm2026illusion,
-  title         = {The Illusion of Grounding: Do Vision--Language Models Weigh Retrieved Text and Images Like an Ideal Observer?},
-  author        = {R M, Basavaraj and Chandel, Harshal},
-  year          = {2026},
-  howpublished  = {Technical report},
-  url           = {https://github.com/Basavarajearlybird/GIB-200K}
+@article{rm2026gib,
+  title   = {The Illusion of Grounding: Do Vision-Language Models Weigh Retrieved Text and Images Like an Ideal Observer?},
+  author  = {{Basavaraj R M} and Chandel, Harshal},
+  journal = {arXiv preprint arXiv:2611.23127},
+  year    = {2026},
+  doi     = {10.48550/arXiv.2611.23127}
 }
 ```
 
