@@ -3,12 +3,13 @@ message: "If you use GIB-200K, please cite it as below."
 title: "GIB-200K: The Illusion of Grounding: Do Vision-Language Models Weigh Retrieved Text and Images Like an Ideal Observer?"
 type: software
 authors:
-  - family-names: "R M"
-    given-names: "Basavaraj"
+  - family-names: "Basavaraj"
+    given-names: "R M"
+    orcid: "https://orcid.org/0009-0002-4758-0965"
   - family-names: "Chandel"
     given-names: "Harshal"
-
-version: "2.0.0"
+    orcid: "https://orcid.org/0009-0006-2364-2833"
+version: "1.0.0"
 date-released: "2026-11-17"
 license: MIT
 repository-code: "https://github.com/Basavarajearlybird/GIB-200K"
@@ -25,10 +26,11 @@ preferred-citation:
   type: article
   title: "The Illusion of Grounding: Do Vision-Language Models Weigh Retrieved Text and Images Like an Ideal Observer?"
   authors:
-    - family-names: "R M"
-      given-names: "Basavaraj"
+    - family-names: "Basavaraj"
+      given-names: "R M"
     - family-names: "Chandel"
       given-names: "Harshal"
-    - family-names: "Kumar"
-      given-names: "Aryan Bharat"
+  journal: "arXiv preprint arXiv:2611.23127"
+  doi: "10.48550/arXiv.2611.23127"
+  url: "https://arxiv.org/abs/2611.23127"
   year: 2026
