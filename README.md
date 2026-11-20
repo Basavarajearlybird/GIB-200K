@@ -460,7 +460,7 @@ GIB-200K/
 
 ## 📜 Citation
 
-If you use GIB-200K, please cite the technical report (metadata also in [`CITATION.cff`](CITATION.cff)). The arXiv identifier arXiv: [2611.23127](https://arxiv.org/abs/2611.23127)
+If you use GIB-200K, please cite the technical report, [arXiv:2611.23127](https://arxiv.org/abs/2611.23127) (metadata also in [`CITATION.cff`](CITATION.cff)):
 
 ```bibtex
 @article{rm2026gib,
