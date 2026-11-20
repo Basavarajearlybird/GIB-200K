@@ -9,7 +9,7 @@ authors:
   - family-names: "Chandel"
     given-names: "Harshal"
     orcid: "https://orcid.org/0009-0006-2364-2833"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-11-17"
 license: MIT
 repository-code: "https://github.com/Basavarajearlybird/GIB-200K"
